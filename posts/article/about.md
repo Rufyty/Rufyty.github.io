@@ -5,14 +5,14 @@ title: Whoami
 
 # 👨‍💻 Whoami  
 
-Hey, I’m **dev/null_0** (aka root💀bl4ck4non).  
+Hey, I’m **dev/null_0** (aka black_hole).  
 I’m a cybersecurity enthusiast documenting my journey in hacking, CTFs, and security research.  
 
 ---
 
 ## 🛠️ Skills & Focus  
 - Web Application Security (SQLi, XSS, SSRF, etc.)  
-- Capture The Flag (CTFs) player — TryHackMe, HackTheBox, PicoCTF  
+- Capture The Flag (CTFs) player — TryHackMe, ROOTME, PicoCTF, portswigger,HackingLAB,etc...
 - Networking & Linux basics  
 - Learning privilege escalation and exploit development  
 
@@ -28,8 +28,7 @@ I’m a cybersecurity enthusiast documenting my journey in hacking, CTFs, and se
 
 ## 🚀 Platforms  
 - TryHackMe: [MyProfile](https://tryhackme.com/p/rufai1)  
-- OVERTHEWIRE: [MyProfile](https://app.hackthebox.com/profile/yourusername)
-- ROOTME: [MyProfile](https://app.hackthebox.com/profile/yourusername)  
+- picoCTF: [MyProfile](https://play.picoctf.org/users/wale001)
 
 ---
 
