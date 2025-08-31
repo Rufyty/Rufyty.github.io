@@ -27,7 +27,7 @@ I’m a cybersecurity enthusiast documenting my journey in hacking, CTFs, and se
 ---
 
 ## 🚀 Platforms  
-- TryHackMe: [MyProfile](https://tryhackme.com/p/yourusername)  
+- TryHackMe: [MyProfile](https://tryhackme.com/p/rufai1)  
 - OVERTHEWIRE: [MyProfile](https://app.hackthebox.com/profile/yourusername)
 - ROOTME: [MyProfile](https://app.hackthebox.com/profile/yourusername)  
 
