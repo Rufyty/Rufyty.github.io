@@ -4,7 +4,7 @@ title: Home
 ---
 
 * * *
-### Welcome To My Cyber Security Blog, H4X0R  
+### Welcome To My Cyber Security Blog.
 * * *
 
 Yo 👋, Welcome To My Cyber Security Blog I'm **dev/null_0**.  
@@ -24,16 +24,15 @@ I Post Different Hacking Tricks, Writeups, Articles, and anything related to hac
 ### **Articles:~#**
 * * *
 
-- [[August 31 2025]] [MY BIOGRAPHY](#)
+- [[August 31 2025]] [#id dev/null_0](https://github.com/Rufyty/Rufyty.github.io/blob/main/posts/article/about.md)
 
 * * *
 ### **TryHackMe:~#**
 * * *
 
-- [[August 31 2025]] [WRITEUP](#)
 
 * * *
 ### **OVERTHEWIRE:~#**
 * * *
 
-- [[August 31 2025]] [WRITEUP](#) 
+
