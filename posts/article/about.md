@@ -13,8 +13,10 @@ I’m a cybersecurity enthusiast documenting my journey in hacking, CTFs, and se
 ## 🛠️ Skills & Focus  
 - Web Application Security (SQLi, XSS, SSRF, etc.)  
 - Capture The Flag (CTFs) player — TryHackMe, ROOTME, PicoCTF, portswigger,HackingLAB,etc...
-- Networking & Linux basics  
-- Learning privilege escalation and exploit development  
+- Networking, Packet tracer and more
+- Learning privilege escalation and exploit development
+- Python, JavaScript, Sql, memchached, PHP and Bash
+
 
 ---
 
