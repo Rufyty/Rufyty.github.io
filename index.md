@@ -7,7 +7,7 @@ title: Home
 ### Welcome To My Cyber Security Blog.
 * * *
 
-Yo 👋, Welcome To My Cyber Security Blog I'm **dev/null_0**.  
+Hey 👋, Welcome To My Cyber Security Blog I'm **dev/null_0**.  
 I Post Different Hacking Tricks, Writeups, Articles, and anything related to hacking that I learn 😉. 
 
 * * *
