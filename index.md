@@ -24,7 +24,7 @@ I Post Different Hacking Tricks, Writeups, Articles, and anything related to hac
 ### **Articles:~#**
 * * *
 
-- [[August 31 2025]] [#id dev/null_0](https://github.com/Rufyty/Rufyty.github.io/blob/main/posts/article/about.md)
+- [[August 31 2025]] [#id dev/null_0](./posts/article/about.md)
 
 * * *
 ### **TryHackMe:~#**
