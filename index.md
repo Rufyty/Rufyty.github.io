@@ -7,7 +7,7 @@ title: Home
 ### Welcome To My Cyber Security Blog.
 * * *
 
-Hey 👋, Welcome To My Cyber Security Blog I'm **dev/null_0**.  
+Hey 👋, Welcome To My Cyber Security Space I'm **dev/null_0**.  
 I Post Different Hacking Tricks, Writeups, Articles, and anything related to hacking that I learn 😉. 
 
 * * *
@@ -24,7 +24,6 @@ I Post Different Hacking Tricks, Writeups, Articles, and anything related to hac
 ### **Articles:~#**
 * * *
 
-- [[August 31 2025]] [MORE ABOUT ME](https://Rufyty.github.io/main/posts/article/about.md)
 
 * * *
 ### **TryHackMe:~#**
