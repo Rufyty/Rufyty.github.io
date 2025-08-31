@@ -1,15 +1,11 @@
 theme: jekyll-theme-hacker
-title: Rufyty
-description: My hacking journey, articles, and CTF writeups.
+title: root💀bl4ck4non-sec:~#
+description: Hack. Eat. Sleep. Repeat!!!
+show_downloads: false
+show_repo: false
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "Whoami"
-    url: /whoami/
-  - title: "Articles"
-    url: /articles/
-  - title: "CTFs"
-    url: /ctfs/
-  - title: "Tools"
-    url: /tools/
+gems:
+- jekyll-sitemap
+
+whitelist:
+- jekyll-sitemap
