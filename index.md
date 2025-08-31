@@ -7,15 +7,15 @@ title: Home
 ### Welcome To My Cyber Security Blog, H4X0R  
 * * *
 
-Yo 👋, Welcome To My Cyber Security Blog I'm **Rufyty**.  
+Yo 👋, Welcome To My Cyber Security Blog I'm **dev/null_0**.  
 I Post Different Hacking Tricks, Writeups, Articles, and anything related to hacking that I learn 😉. 
 
 * * *
 ### Whoami:~#
 * * *
 
-- **My Name:**    `Rufyty`
-- **Also Known As:** `root💀rufyty`
+- **My Name:**    `Aderogba Rufai`
+- **Also Known As:** `dev/null_0`
 - **What Do I Do:**  `CTF / Ethical Hacking / Pentesting`
 - **Twitter:** `https://twitter.com/yourhandle`
 - **Github:** `https://github.com/yourusername`
