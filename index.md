@@ -24,16 +24,16 @@ I Post Different Hacking Tricks, Writeups, Articles, and anything related to hac
 ### **Articles:~#**
 * * *
 
-- [[August 31 2025]] [My First Blog Post](https://yourusername.github.io/posts/articles/first_post.html)
+- [[August 31 2025]] [MY BIOGRAPHY](#)
 
 * * *
 ### **TryHackMe:~#**
 * * *
 
-- [[August 31 2025]] [First CTF Writeup](https://yourusername.github.io/posts/tryhackme/first_ctf.html) `LFI` `Privilege Escalation`
+- [[August 31 2025]] [WRITEUP](#)
 
 * * *
-### **HackTheBox:~#**
+### **OVERTHEWIRE:~#**
 * * *
 
-- [[August 31 2025]] [First HTB Writeup](https://yourusername.github.io/posts/hackthebox/first_htb.html) `SMB RCE`
+- [[August 31 2025]] [WRITEUP](#) 
