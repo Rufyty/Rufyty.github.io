@@ -1,0 +1,15 @@
+theme: jekyll-theme-hacker
+title: Rufyty
+description: My hacking journey, articles, and CTF writeups.
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Whoami"
+    url: /whoami/
+  - title: "Articles"
+    url: /articles/
+  - title: "CTFs"
+    url: /ctfs/
+  - title: "Tools"
+    url: /tools/
