@@ -38,9 +38,10 @@ What began as curiosity turned into a **lifestyle** — *Hack. Learn. Repeat.*
 ## 📌 Highlights
 - 🌐 Explored web hacking (SQLi, XSS, SSRF, Auth bypass, etc.)  
 - 🐧 Got hands-on with Linux & privilege escalation  
-- 🔍 Completed OWASP Top 10 labs and PortSwigger challenges  
-- ⚡ Started a 365-day hacking challenge  
-- ✍️ Writing my journey here — sharing knowledge with others  
+- 🔍 Completed OWASP Top 10 labs
+-  Practicing PortSwigger labs  
+- ✍️ Writing my journey here — sharing knowledge with others
+- Mastered PHP, SQL, Python,memchached, JavaScript, Bash 
 
 ---
 
@@ -60,7 +61,8 @@ This is just the beginning.
 I want to:  
 - Keep sharpening my skills in **Web, System, and Network hacking**  
 - Dive deeper into **CTFs, bug bounties, and red teaming**  
-- Contribute to the hacker community by sharing writeups, notes, and tools  
+- Contribute to the hacker community by sharing writeups, notes, and tools
+- Collaborate with other hackers
 
 ---
 
