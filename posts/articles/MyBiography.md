@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "My Journey"
-permalink: /journey/
 ---
 
 # 🚀 My Journey into Hacking
