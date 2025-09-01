@@ -24,6 +24,7 @@ I Post Different Hacking Tricks, Writeups, Articles, and anything related to hac
 ### **Articles:~#**
 * * *
 - [[September 1 2025]][LITTLE ABOUT ME](https://Rufyty.github.io/posts/articles/MyBiography)
+-  [[September 1 2025]][DATAvsAIRTIME](https://Rufyty.github.io/posts/articles/InternetNetwork)
 
 
 * * *
