@@ -30,15 +30,16 @@ I Post Different Hacking Tricks, Writeups, Articles, and anything related to hac
 * * *
 ### **TryHackMe:~#**
 * * *
-
+[MyProfile](https://tryhackme.com/p/rufai1)
 
 * * *
 ### **RootMe:~#**
 * * *
-
+[MyProfile](https://www.root-me.org/blackhole_null?lang=en)
 * * *
 ### **picoCTF:~#**
 * * *
+[MyProfile](https://play.picoctf.org/users/wale001)
 
 
 
